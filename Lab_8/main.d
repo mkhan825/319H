@@ -1,0 +1,9 @@
+.\main.o: main.cpp
+.\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\main.o: ../inc/tm4c123gh6pm.h
+.\main.o: PLL.h
+.\main.o: ST7735.h
+.\main.o: TExaS.h
+.\main.o: PLL.h
+.\main.o: SlidePot.h
+.\main.o: print.h
